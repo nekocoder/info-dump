@@ -26,8 +26,3 @@ random ideas
 -- (Defense) server reset; clears connections
 -- (offensive) server control; discover system location, redirect traffic to you.
 > DDOS (causes lose of connection with one or more of one's own systems)
-
- 
-
- 
-
