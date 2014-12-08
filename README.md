@@ -3,7 +3,8 @@ info-dump
 
 place for me to drop my stupid ideas
 --
-[Hacking Game ("System Defense", "Children of "?)
+[Hacking Game ("System Defense", "Children of "?)]
+
 Goal
 > Connect to target core. Take control. 
 
