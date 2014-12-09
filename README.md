@@ -26,3 +26,9 @@ random ideas
 -- (Defense) server reset; clears connections
 -- (offensive) server control; discover system location, redirect traffic to you.
 > DDOS (causes lose of connection with one or more of one's own systems)
+> preset set ups that come with immutable initialization times vs immediate resource creation and use
+> processor speed stat that speeds up object creation
+> storage speed stat as experience
+> Ram speed stat that increases increases initialization speed
+
+
