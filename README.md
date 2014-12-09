@@ -48,7 +48,7 @@ Game Flow
 Objects
 > Drones
 -- Attack Drone (sends junk data to slow and disrupt functions)
---
+-- Infiltration Drone (utilizes command in
 > Sensors
 -- Will relay traffic and object status to a certain point (e.g. DNS, Core)
 > Barriers
