@@ -31,4 +31,17 @@ random ideas
 > storage speed stat as experience
 > Ram speed stat that increases increases initialization speed
 
+Game Flow
+> Character cores appear
+> imminent attack notice appears (match start)
+> initialization starts
+-- Free placement if not initializing
+> Main Action
+-- Create Unit 
+-- Destroy Unit
+-- Fortify Unit
+-- Reposition Unit
+-- Give Command
+> Win Condition
+-- Core has been compromised
 
