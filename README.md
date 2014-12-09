@@ -45,3 +45,14 @@ Game Flow
 > Win Condition
 -- Core has been compromised
 
+Objects
+> Drones
+-- Attack Drone (sends junk data to slow and disrupt functions)
+--
+> Sensors
+-- Will relay traffic and object status to a certain point (e.g. DNS, Core)
+> Barriers
+-- Trash collector (blocks junk data)
+-- Input cleaner (checks for command injections)
+-- Adaptive (will attempt to check for both)
+
