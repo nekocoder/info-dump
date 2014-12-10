@@ -56,4 +56,10 @@ Objects
 -- Input cleaner (checks for command injections)
 -- Adaptive (will attempt to check for both)
 > Misc
+-- Decoys (will respond to commands)
+> Core
+-- Character's main system (can do many of the same functions as the drones, and even better, but has a higher de-facto vulneralbility)
 
+Example Interactions
+> Attack Drone/Barrier
+--
