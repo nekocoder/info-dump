@@ -58,8 +58,10 @@ Objects
 -- Trash collector (blocks junk data)
 -- Input cleaner (checks for command injections)
 -- Adaptive (will attempt to check for both)
-> Misc
--- Decoys (will respond to commands)
+> Decoys (will respond to commands)
+-- Mazes
+-- Honey Pot
+-- 
 > Core
 -- Character's main system (can do many of the same functions as the drones, and even better, but has a higher de-facto vulneralbility)
 
@@ -69,11 +71,10 @@ Example Interactions
 -- TC receives data 
 -- TC recognizes and destroys junk data
 -- If TC can't accept a transmission, it will forward (as opposed to crashing)
-XX--- If TC is overwelmed (it intercepts each incoming data transmission) it shuts down and must be rebooted
 > Attack Drone/Input Cleaner
 -- AD sends junk data
 -- IC receives data 
--- IC runs junk data and crashes
+-- IC runs junk data and crashes (forced reboot)
 > Infiltration Drone/Trash Collector
 -- ID sends command injection
 -- TC receives data
@@ -82,3 +83,10 @@ XX--- If TC is overwelmed (it intercepts each incoming data transmission) it shu
 -- ID sends command injection
 -- IC receives data
 -- IC recognizes command, checks blacklist and discards data
+-- If IC can't accept a transmission, it will forward (as opposed to crashing)
+> Attack Drone/Attack Drone
+-- AD sends junk data
+-- AD receives junk data
+-- AD suffers data damage
+---Suffer enough dmg and AD will need to be repaired
+> Infiltration Drone
