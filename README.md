@@ -5,6 +5,9 @@ place for me to drop my stupid ideas
 --
 [Hacking Game ("System Defense", "Children of "?)]
 
+Inspiration
+> Masamune Shirow's Ghost in the Shell manga is probably one of my favorite mangas to date. The hacking, especially in the second volume, is rather top notch in my opinion. Instead of console olympics, the hacking plays out more like a hectic game of Starcraft (or what I'm assuming it can be like) or an Ender's Game battle with the deployment of barriers, injection of multi-part viruses and full brain dives. It seemed like it would make for a fun game. 
+
 Goal
 > Connect to target core. Take control. 
 
