@@ -20,7 +20,8 @@ resources
 > multi-use drones [multi-function, moderate stats; mid/high tier]
 > Barriers [resists junk data; slows down data transmission one way]
 > Sensors [passive observation; can't initiate action on own]
-> ping []
+> Ping [command injection that illicits a response from the contacted structure]
+> Pulse [illicits an internal network ping and returns a mapping of the systems]
 > junk data transmission [can overwelm structures; can cause bottle necks, easily trips alarms] 
 > data injection [can infiltrate and engage systems; higher chance of revealing your own systems]
 
@@ -61,7 +62,6 @@ Objects
 > Decoys (will respond to commands)
 -- Mazes
 -- Honey Pot
--- 
 > Core
 -- Character's main system (can do many of the same functions as the drones, and even better, but has a higher de-facto vulneralbility)
 
